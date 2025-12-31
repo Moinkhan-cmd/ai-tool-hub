@@ -59,7 +59,7 @@ export const tools: Tool[] = [
       "Prototyping ideas before hiring developers",
     ],
     pricing: "Free tier available. Pro plans start at $20/month.",
-    referralLink: "#",
+    referralLink: "https://lovable.dev/invite/E67AVT6",
     featured: true,
   },
   {
